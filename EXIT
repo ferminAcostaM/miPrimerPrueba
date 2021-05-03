@@ -1,0 +1,25 @@
+[33mcommit b18a67c938443d9ea697430290e06e0981f29044[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: fermin <fermin.acosta2011@gmail.com>
+Date:   Mon May 3 10:57:26 2021 -0600
+
+    esta es una prueba por q no me acuerda de como funciona git
+
+[1mdiff --git a/historias.txt b/historias.txt[m
+[1mindex bf3968b..5ccbd4b 100644[m
+[1m--- a/historias.txt[m
+[1m+++ b/historias.txt[m
+[36m@@ -2,4 +2,11 @@[m [mlal lalalalla zxdsad[m
+ asd[m
+ fasd[m
+ fasdfas[m
+[31m-df[m
+\ No newline at end of file[m
+[32m+[m[32mdf[m
+[32m+[m[32maasdfr[m
+[32m+[m[32mqew[m
+[32m+[m[32mqewr[m
+[32m+[m[32mqewr[m
+[32m+[m[32mqewr[m
+[32m+[m[32mqewr[m
+[32m+[m[32mqwe[m
+\ No newline at end of file[m
